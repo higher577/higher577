@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Youmin @higher577
-- 🌱 I’m currently learning double major on compsci & stats in uoa
+- 🌱 I’m currently doing double major on compsci & stats in uoa
 - 📫 How to reach me youminkim577@gmail.com
 
 <!---
